@@ -88,6 +88,14 @@
     "photoUrl": ""
   },
   {
+    "url": "https://web.facebook.com/groups/free.code.camp.mila/",
+    "city": "Mila",
+    "state": "Mila",
+    "country": "Algeria",
+    "coordinates": "36.4512, 6.2535",
+    "photoUrl": ""
+  },
+  {
     "url": "https://www.facebook.com/groups/free.code.camp.oran",
     "city": "Oran",
     "state": "",
@@ -237,6 +245,14 @@
     "state": "",
     "country": "Argentina",
     "coordinates": "35.687, -105.9378",
+    "photoUrl": ""
+  },
+  {
+    "url": "https://web.facebook.com/groups/free.code.camp.smtucuman",
+    "city": "San Miguel de Tucumán",
+    "state": "Tucumán/Noroeste",
+    "country": "Argentina",
+    "coordinates": "-26.8241405, -65.2226028",
     "photoUrl": ""
   },
   {
@@ -733,6 +749,14 @@
     "state": "",
     "country": "Bosnia and Herzegovina",
     "coordinates": "44.757474, 19.217891",
+    "photoUrl": ""
+  },
+  {
+    "url": "https://www.facebook.com/groups/freecodecamp.derventa/",
+    "city": "Derventa",
+    "state": "Republika Srpska",
+    "country": "Bosnia and Herzegovina",
+    "coordinates": "44.97839, 17.90779",
     "photoUrl": ""
   },
   {
@@ -2696,6 +2720,14 @@
     "photoUrl": ""
   },
   {
+    "url": "https://www.facebook.com/groups/free.code.camp.manta",
+    "city": "Manta",
+    "state": "Manabi",
+    "country": "Ecuador",
+    "coordinates": "-0.967700, -80.708900",
+    "photoUrl": ""
+  },
+  {
     "url": "https://www.facebook.com/groups/free.code.camp.santo.domingo.ecuador",
     "city": "Santo Domingo",
     "state": "",
@@ -3616,6 +3648,14 @@
     "photoUrl": ""
   },
   {
+    "url": "https://www.facebook.com/groups/455966358240435/",
+    "city": "Buchholz in der Nordheide",
+    "state": "Niedersachsen",
+    "country": "Germany",
+    "coordinates": "53.312412, 9.864794",
+    "photoUrl": ""
+  },
+  {
     "url": "https://www.facebook.com/groups/free.code.camp.chemnitz",
     "city": "Chemnitz",
     "state": "",
@@ -3725,6 +3765,14 @@
     "state": "",
     "country": "Germany",
     "coordinates": "52.374478, 9.738553",
+    "photoUrl": ""
+  },
+  {
+    "url": "https://www.facebook.com/groups/free.code.camp.hassloch/",
+    "city": "Hassloch",
+    "state": "Rheinland-Pfalz",
+    "country": "Germany",
+    "coordinates": "49.359849, 8.256891",
     "photoUrl": ""
   },
   {
@@ -5672,6 +5720,14 @@
     "photoUrl": ""
   },
   {
+    "url": "https://www.facebook.com/groups/free.code.camp.matsue/",
+    "city": "Matsue",
+    "state": "Shimane",
+    "country": "Japan",
+    "coordinates": "35.46806, 133.04861",
+    "photoUrl": ""
+  },
+  {
     "url": "https://www.facebook.com/groups/free.code.camp.nagoya",
     "city": "Nagoya",
     "state": "",
@@ -7429,7 +7485,7 @@
     "state": "",
     "country": "Philippines",
     "coordinates": "14.590622, 120.97997",
-    "photoUrl": "https://scontent.fmnl13-1.fna.fbcdn.net/v/t1.0-9/18199241_10210563063370531_9192704129359910881_n.jpg?oh=3faa7624840fd8c35c338cf7faa46e9f&oe=5A7E72D9"
+    "photoUrl": "https://scontent.fmnl8-1.fna.fbcdn.net/v/t1.0-9/18199241_10210563063370531_9192704129359910881_n.jpg?_nc_cat=108&_nc_ht=scontent.fmnl8-1.fna&oh=5f3bd5649007fd3443ff2c14af0d5e1e&oe=5CA828D9"
   },
   {
     "url": "https://www.facebook.com/groups/free.code.camp.mati",
@@ -10408,14 +10464,6 @@
     "photoUrl": ""
   },
   {
-    "url": "https://www.facebook.com/groups/free.code.camp.santa.cruz.california",
-    "city": "Santa Cruz",
-    "state": "California",
-    "country": "United States",
-    "coordinates": "36.97461, -122.029426",
-    "photoUrl": ""
-  },
-  {
     "url": "https://www.facebook.com/groups/free.code.camp.sanramon",
     "city": "San Ramon",
     "state": "California",
@@ -11632,6 +11680,14 @@
     "photoUrl": ""
   },
   {
+    "url": "https://www.facebook.com/groups/free.code.camp.belair",
+    "city": "Bel Air",
+    "state": "Maryland",
+    "country": "United States",
+    "coordinates": "39.535492, -76.347343",
+    "photoUrl": ""
+  },
+  {
     "url": "https://www.facebook.com/groups/free.code.camp.bowie.md",
     "city": "Bowie",
     "state": "Maryland",
@@ -11993,7 +12049,7 @@
   },
   {
     "url": "https://www.facebook.com/groups/free.code.camp.minneapolis",
-    "city": "Minneapolis",
+    "city": "Minneapolis-Saint Paul",
     "state": "Minnesota",
     "country": "United States",
     "coordinates": "44.9773, -93.265469",
@@ -12024,11 +12080,11 @@
     "photoUrl": ""
   },
   {
-    "url": "https://www.facebook.com/groups/free.code.camp.saint.paul.mn",
-    "city": "Saint Paul",
+    "url": "https://www.facebook.com/groups/free.code.camp.minnesota/",
+    "city": "",
     "state": "Minnesota",
     "country": "United States",
-    "coordinates": "44.950404, -93.101503",
+    "coordinates": "46.489831, -94.584065",
     "photoUrl": ""
   },
   {
@@ -12770,7 +12826,7 @@
   {
     "url": "https://www.facebook.com/groups/free.code.camp.moorhead.nd",
     "city": "Moorhead",
-    "state": "North Dakota",
+    "state": "Minnesota",
     "country": "United States",
     "coordinates": "46.873908, -96.753867",
     "photoUrl": ""
@@ -13253,6 +13309,14 @@
     "state": "Tennessee",
     "country": "United States",
     "coordinates": "38.296736, -85.759963",
+    "photoUrl": ""
+  },
+  {
+    "url": "https://www.facebook.com/groups/free.code.camp.cookeville.TN/",
+    "city": "Cookeville",
+    "state": "Tennessee",
+    "country": "United States",
+    "coordinates": "36.157232, -85.500466",
     "photoUrl": ""
   },
   {
@@ -14624,14 +14688,6 @@
     "photoUrl": ""
   },
   {
-    "url": "https://www.facebook.com/groups/free.code.camp.cookeville.tennessee",
-    "city": "Cookeville",
-    "state": "Tennessee",
-    "country": "United States",
-    "coordinates": "36.162839,-85.5016423",
-    "photoUrl": ""
-  },
-  {
     "url": "https://www.facebook.com/groups/free.code.camp.cumana",
     "city": "Cumana",
     "state": "Sucre",
@@ -15542,5 +15598,37 @@
     "country": "India",
     "coordinates": "22.574943, 88.362892",
     "photoUrl": "https://scontent.fccu1-1.fna.fbcdn.net/v/t1.0-9/40094927_726617307697940_7335538390466560000_o.jpg?_nc_cat=0&oh=7f7cca5f10d14206a0c34daf853af77d&oe=5C389A4A"
+  },
+  {
+    "url": "https://www.facebook.com/groups/free.code.camp.mangalagiri/",
+    "city": "Mangalagiri",
+    "state": "Andhra Pradesh",
+    "country": "India",
+    "coordinates": "16.4349, 80.5688",
+    "photoUrl": "https://user-images.githubusercontent.com/29162658/46595854-f58a1400-caf7-11e8-9647-162f928a92b0.jpg"
+  },
+  {
+    "url": "https://www.facebook.com/groups/free.code.camp.danville.virginia/",
+    "city": "Danville",
+    "state": "Virginia",
+    "country": "United States",
+    "coordinates": "36.584393, -79.396941",
+    "photoUrl": ""
+  },
+  {
+    "url": "https://www.facebook.com/groups/free.code.camp.camarines.norte/",
+    "city": "Daet",
+    "state": "Camarines Norte",
+    "country": "Philippines",
+    "coordinates": "14.099611, 122.955000",
+    "photoUrl": ""
+  },
+  {
+    "url": "https://www.facebook.com/groups/free.code.camp.columbus.indiana/",
+    "city": "Columbus",
+    "state": "Indiana",
+    "country": "United States",
+    "coordinates": "39.209782, -85.899962",
+    "photoUrl": ""
   }
 ]
